@@ -3,6 +3,9 @@ layout: iframe
 title: AJM Group
 item: 1
 auto: true
+mode: fade
+pause: 5000
+speed: 1000
 loop: true
 ---
 
